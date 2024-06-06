@@ -1,4 +1,4 @@
-# Neural Style Transfer with Streamlit
+# Neural Style Transfer
 
 ## Project Overview
 This project implements Neural Style Transfer (NST) using TensorFlow and provides a user-friendly interface using Streamlit. Neural Style Transfer is a deep learning technique that allows blending the content of one image with the style of another image, resulting in visually appealing artworks.
@@ -18,7 +18,7 @@ To set up the environment and run the project, follow these steps:
 ## Usage
 To use the code, follow these steps:
 
-1. **Run the Streamlit App:** Launch the Streamlit app by executing the following command: streamlit run app.py
+1. **Run the Streamlit App:** Launch the Streamlit app by executing the following command: streamlit run Code/app.py
    
 2. **Upload Images:** Once the app is running, open the provided URL in your web browser. Use the file upload buttons to upload a content image and a style image.
 
