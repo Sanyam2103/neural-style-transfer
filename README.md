@@ -50,6 +50,11 @@ Here's an example of how to use the code:
 6. Click "Style" to apply NST.
 7. View and download the styled image.
 
+## Results
+![stylised_image-2](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/05ed3208-17ff-4d31-8255-075fc662eb22)
+![stylised_image-6](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/f541f939-16ec-48e1-963c-327dcaf26d38)
+![stylised_image-5](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/43bcd214-8d91-4c90-ac07-b576d9ec3e27)
+
 ## References
 - https://www.tensorflow.org/tutorials/generative/style_transfer
 - Gatys, Leon A., et al. "A Neural Algorithm of Artistic Style." arXiv preprint arXiv:1508.06576 (2015).
