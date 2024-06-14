@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements Neural Style Transfer (NST) using TensorFlow and provides a user-friendly interface using Streamlit. Neural Style Transfer is a deep learning technique that allows blending the content of one image with the style of another image, resulting in visually appealing artworks.
 
-The core idea behind NST is to separate and then recombine the content and style of two input images using a pre-trained convolutional neural network, typically VGG19.
+The core idea behind NST is to separate and then recombine the content and style of two input images using convolutional neural network, typically VGG19.
 
 ## Installation Instructions
 To set up the environment and run the project, follow these steps:
