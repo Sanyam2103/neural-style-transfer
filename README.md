@@ -8,7 +8,7 @@ The core idea behind NST is to separate and then recombine the content and style
 ## Installation Instructions
 To set up the environment and run the project, follow these steps:
 
-1. **Clone the Repository:** Clone the repository to your local machine using Git.
+1. **Clone the Repository:** Clone the repository to your local machine using Git. git clone https://github.com/aryanlaroia28/neural_style_transfer.git
    
 2. **Navigate to the Project Directory:** Move into the project directory: cd neural-style-transfer
 
