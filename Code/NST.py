@@ -123,7 +123,7 @@ def NST(content_img,style_img):
     import time
     start = time.time()
 
-    //change number of epochs from 2 to 5, as per user prefernce
+    #change number of epochs from 2 to 5, as per user prefernce
     epochs = 5
     steps_per_epoch = 100
 
