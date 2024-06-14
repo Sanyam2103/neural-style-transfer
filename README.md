@@ -56,10 +56,12 @@ Here's an example of how to use the code:
 ![stylised_image-5](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/43bcd214-8d91-4c90-ac07-b576d9ec3e27)
 
 ## References
-- https://www.tensorflow.org/tutorials/generative/style_transfer
-- Gatys, Leon A., et al. "A Neural Algorithm of Artistic Style." arXiv preprint arXiv:1508.06576 (2015).
-- Streamlit Documentation: https://docs.streamlit.io/
-- TensorFlow Documentation: https://www.tensorflow.org/guide
+	Understanding Concept : Entire playlist of Neil Rhodes https://www.youtube.com/watch?v=6KGtaXR7yMU
+	Writing Code: https://www.google.com/search?client=safari&rls=en&q=neural+style+transfer&ie=UTF-8&oe=UTF-8
+	Front End Ideation: https://www.youtube.com/watch?v=bFeltWvzZpQ
+	Streamlit Documentation: https://docs.streamlit.io/
+	TensorFlow Documentation: https://www.tensorflow.org/guide
+
 
 
 
