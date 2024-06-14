@@ -57,7 +57,7 @@ Here's an example of how to use the code:
 
 ## References
 - Understanding Concept : Entire playlist of Neil Rhodes [YouTube](https://www.youtube.com/watch?v=6KGtaXR7yMU)
-- Writing Code: [Google Search for Neural Style Transfer](https://www.google.com/search?client=safari&rls=en&q=neural+style+transfer&ie=UTF-8&oe=UTF-8)
+- Writing Code: [Neural Style Transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
 - Front End Ideation: [YouTube - Front End Ideation](https://www.youtube.com/watch?v=bFeltWvzZpQ)
 - Streamlit Documentation: [Streamlit Documentation](https://docs.streamlit.io/)
 - TensorFlow Documentation: [TensorFlow Guide](https://www.tensorflow.org/guide)
