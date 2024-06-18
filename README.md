@@ -62,6 +62,9 @@ Here's an example of how to use the code:
 - Streamlit Documentation: [Streamlit Documentation](https://docs.streamlit.io/)
 - TensorFlow Documentation: [TensorFlow Guide](https://www.tensorflow.org/guide)
 
+## Important
+-When i ran my code on cpu, for a particular expample it took me 300 seconds, but when i ran on GPU(mac), it took just 30 seconds.
+
 
 
 
