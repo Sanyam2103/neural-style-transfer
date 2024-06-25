@@ -53,6 +53,8 @@ Here's an example of how to use the code:
 ## Results
 ![stylised_image-2](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/05ed3208-17ff-4d31-8255-075fc662eb22)
 ![stylised_image-6](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/f541f939-16ec-48e1-963c-327dcaf26d38)
+![IMG_7241](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/d538b005-924e-4c82-9249-999883cd5132)
+![stylised_image-10 10 41 38 PM](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/ada04c62-2579-4740-8ef7-cfc16f73bc7f)
 ![stylised_image-5](https://github.com/aryanlaroia28/neural_style_transfer/assets/166947111/43bcd214-8d91-4c90-ac07-b576d9ec3e27)
 
 ## References
